@@ -11,6 +11,8 @@ After each sprint, release, or important milestone. Also after incidents.
 - What could be improved
 - Action items (owner, due date)
 - Follow-up on previous action items
+- Customer feedback insights from Support Lead
+- Quality metrics and testing insights from QA Engineer
 
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
@@ -31,3 +33,6 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+- Incorporate customer feedback from Support Lead into product improvements
+- Use quality metrics from QA Engineer to drive testing improvements
+- Leverage UX/UI Designer feedback to enhance user experience

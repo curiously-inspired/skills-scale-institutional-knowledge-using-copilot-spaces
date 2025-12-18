@@ -22,6 +22,12 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- **QA Engineer Responsibilities:**
+  - Design and execute test plans aligned with acceptance criteria
+  - Maintain test automation frameworks and scripts
+  - Verify all acceptance criteria are met before marking work as Done
+  - Report and track defects through resolution
+  - Provide quality metrics and test reports in sprint reviews
 
 ## Reporting & Metrics
 - Track velocity and burndown
